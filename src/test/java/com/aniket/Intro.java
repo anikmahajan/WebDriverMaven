@@ -22,6 +22,7 @@ public class Intro {
     	 driver.manage().window().maximize();
     	 driver.get("https://www.facebook.com");
     	 System.out.println("Aniket");
+    	 System.out.println("Mahajan");
      }
      @AfterMethod
      public void TearDown()
